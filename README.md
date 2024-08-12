@@ -1,6 +1,7 @@
 ![Data Analyst](https://media.licdn.com/dms/image/v2/D5616AQG4XGsGQ9s2lw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723447820285?e=1729123200&v=beta&t=7X-OqGiyU_L52DqEVQhpODl9y-KQI9rqH8hbua8naug)
 
-### Hi there 👋, I'm Ali Ashraf Sakil
+### Hi there 👋,
+### I'm Ali Ashraf Sakil
 #### Data Analyst
 
 I am a data analyst with over two years of experience, proficient in Power BI, Excel, SQL, Python, and Tableau. I have led projects in customer segmentation, churn prediction, and sales forecasting. I am committed to innovation and delivering measurable value.
