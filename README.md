@@ -8,7 +8,7 @@ I am a data analyst with over two years of experience, proficient in Power BI, E
 Skills: Data Analyst | Statistical Data Analysis | Data Visualization | Power BI | SQL | Python | Tableau | Advanced Excel
 
 - 🔭 I’m currently working on Financial project 
-- 🌱 I’m currently learning SQL Query 
+- 🌱 I’m currently continuing my MSc in Statistics
 - 💬 Ask me about Data Analysis. 
 
 
@@ -21,8 +21,6 @@ Skills: Data Analyst | Statistical Data Analysis | Data Visualization | Power BI
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil066)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakil066&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Shakil066/contributions?format=svg&private=false)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Shakil066)  
 
